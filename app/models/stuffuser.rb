@@ -1,0 +1,2 @@
+class Stuffuser < ApplicationRecord
+end
